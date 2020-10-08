@@ -1,0 +1,23 @@
+div{
+	background-color: #A3F7BF
+	
+}
+body{
+	margin: 0px;
+}
+h1{
+	margin: 0px;
+	font-style: Lucida Handwriting;
+	font-size: 36;
+}
+/*class*/
+.middle-container{
+	background-color: red;
+	height: 200px;
+	width: 200px
+}
+.bottom-container{
+	background-color: blue;
+	height: 200px;
+	width: 200px;
+}
